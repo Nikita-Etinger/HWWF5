@@ -1,0 +1,11 @@
+{
+  "styleToolStripMenuItem": "style",
+  "saveToolStripMenuItem": "save",
+  "openToolStripMenuItem": "open",
+  "fileToolStripMenuItem": "File",
+  "exitToolStripMenuItem": "exit",
+  "editToolStripMenuItem": "edit",
+  "closeToolStripMenuItem": "close",
+  "pasteToolStripMenuItem": "paste",
+  "copyToolStripMenuItem":  "copy"
+}
